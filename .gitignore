@@ -1,0 +1,8 @@
+# Gradle auto-generated files #
+.gradle
+.build
+.idea
+*.iml
+*.name
+build
+*.log
