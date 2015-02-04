@@ -3,4 +3,4 @@
 The official Chatable chat client
 
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Chatable"
+[logo]: https://avatars0.githubusercontent.com/u/10842034?v=3&s=200 "Chatable"
